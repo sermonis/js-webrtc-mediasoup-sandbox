@@ -1,6 +1,4 @@
 # js-webrtc-mediasoup-sandbox
-sample code for and experiments with mediasoup
-
 Sample code with the the simplest possible signaling, and fewest possible dependencies, for cross-browser testing of:
 
 * Sending/receiving audio and video tracks  
